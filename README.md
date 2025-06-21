@@ -8,7 +8,7 @@ My name is Yali Magdasy — I’m a young developer from Israel 🇮🇱.
 
 🔭 Currently exploring:
 - 🤖 Machine Learning and AI
-- ✋ Computer Vision and Hand Tracking
+- ✋ Computer Vision and Tracking
 - 🗄️ Advanced Databases 
 - 🌐 API integrations and real-time applications
 - 🖥️ C# desktop development and system automation
