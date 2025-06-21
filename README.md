@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About Me 👋
 
-<!--
-**JustSmiley/JustSmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yali Magdasy — I’m a young developer from Israel 🇮🇱.  
+🎓 I'm currently studying in high school, majoring in Computer Science.  
+💡 I study in a designated program for advanced students in computer science and technology.  
+🛠️ I enjoy building practical, creative projects using various programming languages.  
+⚽ In my free time, I love playing sports, volunteering, having fun — and of course, coding! 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently exploring:
+- 🤖 Machine Learning and AI
+- ✋ Computer Vision and Hand Tracking
+- 🗄️ Advanced Databases 
+- 🌐 API integrations and real-time applications
+- 🖥️ C# desktop development and system automation
